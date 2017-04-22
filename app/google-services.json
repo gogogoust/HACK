@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "277865035583",
+    "firebase_url": "https://hackust-affb5.firebaseio.com",
+    "project_id": "hackust-affb5",
+    "storage_bucket": "hackust-affb5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277865035583:android:4f644fd419d46a60",
+        "android_client_info": {
+          "package_name": "com.example.admin.hackust"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "277865035583-vopmaua43q2qufibfjjcorrflg4l4hpv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.admin.hackust",
+            "certificate_hash": "31282630b29031a2d7fb9fa9ab2d65dd8f250c4d"
+          }
+        },
+        {
+          "client_id": "277865035583-uho89ffnkgr6v8stk7fjpk4mfie82h91.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPFiOQe0J5oHoRhG_fS47GYvHgPi8BKEk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "277865035583-uho89ffnkgr6v8stk7fjpk4mfie82h91.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
